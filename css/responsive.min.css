@@ -1,0 +1,469 @@
+/* CSS Document
+Website: Creative IT Institute
+Website-Url: www.creativeit-inst.com
+Design & Development By: Julkar N. Nahian
+Author: Creative IT LTD.
+URL: 
+Email: nahian048@gmail.com
+Description: 
+Language: Html,Css,Javascript,Jquery,Php,Mysql etc.
+Tags: 
+*/
+@import url(loader.min.css);
+@media(min-width:1199px) and (max-width:1280px) {
+#courseBanner, #dipBanner, #aboutBanner, #galleryBanner, #evntsBanner, #fotBanner, #prsBanner, #scShipBanner, #stuWrksBanner, #aplyBanner, #ceBanner, #awardsBanner, #placementBanner, #fdBkBanner, #contactBanner, #tGbnr, #tpbnr, #resbnr, #fSBanner, #afsbnr, .bannerBg, .bannerTabs {
+	margin-top: -62px
+}
+}
+@media(max-width:1199px) {
+.call-us>p>span {
+	font-size: 1.4em
+}
+.spotLight>a#video>span {
+	left: 200px
+}
+}
+@media(min-width:767px) and (max-width:1199px) {
+.courseDet {
+	font-size: 60%
+}
+#about03 .abHdTx {
+	margin-bottom: 30px
+}
+#nahianNav .megaMenu {
+	width: 580px
+}
+.prsB1, .prsH1 {
+	padding-top: 0
+}
+.btn02 {
+	margin-top: 0
+}
+}
+@media(min-width:992px) and (max-width:1199px) {
+.hightLightBg {
+	font-size: 80%;
+	padding: 35px 20px
+}
+.hightLightBg:last-child img {
+	margin-top: -20px
+}
+#citEvents .discount h4 {
+	padding-top: 0
+}
+#citEvents .discount p {
+	padding-bottom: 12px
+}
+.sucStr {
+	margin-top: 12px
+}
+.allCrs ul li {
+	padding-right: 66px
+}
+#crsBody .crsBody {
+	height: 122px
+}
+#crsBody .crsBody a {
+	margin-top: 0
+}
+.hightLightBg img {
+	margin-top: -20px
+}
+#nahianNav .megaMenu {
+	width: 900px
+}
+.spotLightTxt i {
+	font-size: .9em
+}
+.crsHead>a {
+	font-size: 1.4em
+}
+.course01 .discount h1 {
+	margin: -8px 0
+}
+.crsHead>p, .courseBdr {
+	font-size: 3em
+}
+.courseDet p.crsDisBody {
+	font-size: 1.2em
+}
+.courseDet p.crsDisTite {
+	font-size: 1.8em
+}
+#nahianNav >ul >li >a {
+	padding: 15px;
+	font-size: .9em
+}
+.allCrs ul li a {
+	font-size: 1.2em
+}
+.jnn_tcGd {
+	font-size: 90%
+}
+.jnn_tcGd ul.jnn_tcGd4 {
+	height: 98px
+}
+.jnn_tcGd .jnn_tcGd3 {
+	padding: 0
+}
+.jnn_tcGd .jnn_tcGd2 {
+	font-size: .9em
+}
+.abHdTx2 {
+	margin-bottom: 0
+}
+.abHdTx3 {
+	padding-bottom: 0;
+	margin-bottom: 5px
+}
+.abHdTx ul li {
+	padding: 0 10px
+}
+#r_slider .tp-banner-container, #r_slider .tp-banner ul li {
+	max-height: 395px!important
+}
+}
+@media(min-width:767px) and (max-width:991px) {
+#nahianNav>ul>li>a {
+	padding: 15px 5px
+}
+.lattest-news>b {
+	padding-left: 10px
+}
+.course01 .discount {
+	font-size: 74%
+}
+.course01 .discount h1 {
+	padding: 0;
+	margin-top: 9px
+}
+.course01 .discount p {
+	padding-bottom: 0
+}
+.courseDet p.crsFrO, .courseDet p.crsStB {
+	margin-bottom: 0
+}
+a.crsBtn {
+	font-size: 2em
+}
+#about01 {
+	font-size: 80%
+}
+.abHdTx {
+	margin-bottom: 205px
+}
+#r_slider .tp-banner-container, #r_slider .tp-banner ul li {
+	max-height: 334px!important
+}
+}
+@media(min-width:767px) and (max-width:991px) {
+.header-menu {
+	font-size: 70%
+}
+#nahianNav {
+	font-size: 60%
+}
+#nahianNav>ul>li>a {
+	padding: 15px 5px
+}
+#citEvents .discount h4 {
+	padding-top: 25px;
+	font-size: 2.2em
+}
+#citEvents .discount h1 {
+	padding-bottom: 25px;
+	font-size: 10em
+}
+#citEvents .discount p {
+	padding: 23px
+}
+.comuEng {
+	font-size: 95%
+}
+.cengHtx {
+	padding-top: 3px
+}
+.sucStr {
+	margin-top: -7px
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+	font-family: Flaticon;
+	font-size: 30px;
+	font-style: normal
+}
+#crsBody .crsBody {
+	height: 188px;
+	font-size: .9em
+}
+.hmCrs #crsBody {
+	max-height: 376px
+}
+#dipBdr {
+	margin-top: -5px
+}
+.crsfb01>img {
+	margin: 10px auto
+}
+.crsfb01 p.crsMi {
+	font-size: 1em
+}
+.courseBdr, .crsHead>p {
+	line-height: 40px
+}
+.crsHead>a {
+	margin-top: 8px
+}
+.courseDet p.crsDisTite {
+	margin-top: 0
+}
+.content-c {
+	top: 100px;
+	left: 20px
+}
+.spotLight>a#video>span {
+	top: 145px;
+	left: 320px
+}
+.spotLight>a#video>span {
+	left: 315px
+}
+}
+@media(max-width:991px) {
+.hightLightBg:nth-child(even) {
+	border: 0
+}
+.social {
+	display: none
+}
+.prsMedia {
+	font-size: 80%
+}
+.prsH1, .prsB1 {
+	padding-top: 5px
+}
+.scholarship01 {
+	font-size: 80%
+}
+.cEng {
+	background: #fff
+}
+.lattest-news>b>span {
+	transform: rotate(90deg)
+}
+.allCrs ul {
+	margin-bottom: 0
+}
+.allCrs ul li {
+	padding: 4px 37px 4px 10px
+}
+.crsall h2 {
+	font-size: 1em
+}
+.crsDes {
+	font-size: 80%
+}
+#n_teachers>.container>.col-md-6 {
+	overflow: hidden
+}
+.teacherImg ul li {
+	text-align: center
+}
+}
+@media(max-width:810px) {
+.partnersPt {
+	display: none
+}
+}
+@media(max-width:767px) {
+#nahianNav .dropdown-menu:before {
+	content: "";
+	border-bottom: 10px solid transparent;
+	border-top: 10px solid transparent;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent
+}
+#nahianNav ul li {
+	padding-left: 10px;
+	text-align: center
+}
+.header {
+	text-align: center;
+	margin-top: 50px
+}
+#courseBanner, #dipBanner, #aboutBanner, #galleryBanner, #evntsBanner, #fotBanner, #prsBanner, #scShipBanner, #stuWrksBanner, #aplyBanner, #ceBanner, #awardsBanner, #placementBanner, #fdBkBanner, #contactBanner, #tGbnr, #tpbnr, #resbnr, #fSBanner, #afsbnr, .bannerBg, .bannerTabs, #nahianNav>ul>li:hover ul.megaMenu {
+	display: none
+}
+.courseDet .courseBdr {
+	margin-top: 10px
+}
+#about01 {
+	font-size: 70%;
+	text-align: center
+}
+.crsBtn, .stWrksH1 {
+	text-align: center
+}
+.frmLbl {
+	text-align: left
+}
+.call-us {
+	text-align: center
+}
+.header-menu {
+	line-height: 40px
+}
+.nahainCc {
+	width: 25%;
+	box-sizing: border-box
+}
+.crsHead>a, .courseDet p:not(.col-sm-10), .courseDet p.crsDisTite {
+	margin-left: 20px
+}
+.header-top, .apply {
+	display: none
+}
+.navBg {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background: #000
+}
+.search>input, .search>input:hover, .search>input:focus {
+	width: 100%;
+	padding: 8px 30px 8px 12px;
+	margin-bottom: 10px
+}
+.crsHead>a {
+	margin-top: 0
+}
+.crsall>img:not(:first-child) {
+	display: none
+}
+.jnn_fr01 p.evntHtx {
+	line-height: 2em;
+	font-size: 1.3em;
+	padding-left: 0
+}
+.jnn_fr01 p:not(.evntHtx) {
+	padding: 0
+}
+.crsDes, .crsHi {
+	font-size: 100%;
+	padding: 0 15px
+}
+.jnn_qc a {
+	display: block
+}
+p.jnn_qc {
+	margin-bottom: 50px
+}
+.crsall {
+	display: none
+}
+.crsHead>p {
+	padding-left: 10px;
+	font-size: 1.3em;
+	line-height: 2
+}
+.courseDet p.crsFrO, .courseDet p.crsStB, .courseDet p.crsStudyH {
+	padding-left: 0
+}
+.footerCourses, .footerAddress {
+	padding-top: 20px;
+	overflow: hidden
+}
+#port a:hover:before, #port1 a:hover:before {
+	display: none
+}
+.rebox-contents {
+	top: 25%
+}
+.call-us>p>span {
+	font-size: 1.2em
+}
+.crsSug>img {
+	width: 100%
+}
+#r_slider .tp-banner ul li {
+	max-height: 292px!important
+}
+#crsBody .crsBody {
+	height: auto
+}
+.hmCrs #crsBody {
+	max-height: 100%
+}
+.content-c {
+	top: 20px
+}
+.content-c p {
+	font-size: 12px
+}
+.content-c h1 {
+	font-size: 40px
+}
+.content-c a {
+	margin-top: 10px;
+	margin-left: 38%
+}
+.tp-banner {
+	margin-top: 0
+}
+.jnn_tcGd {
+	overflow: hidden
+}
+}
+@media(max-width:520px) {
+.upcoming, .spotLight, .citMedia, .footerTBg {
+	font-size: 80%
+}
+.ps1 {
+	display: none
+}
+.ps2 {
+	display: block
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+	font-family: Flaticon;
+	font-size: 30px;
+	font-style: normal
+}
+#crsBody .crsBody {
+	font-size: .7em
+}
+#r_slider .tp-banner ul li {
+	max-height: 165px!important
+}
+.tp-bullets {
+	display: none
+}
+}
+@media(max-width:400px) {
+.upcoming, .citMedia, .footerTBg {
+	font-size: 70%
+}
+.spotLightTxt, .citMediaTxt {
+	font-size: 70%;
+	padding: 5px
+}
+.courseDet .crsHead {
+	padding-left: 0
+}
+.evntHtx {
+	font-size: 1.5em
+}
+#r_slider {
+	display: none
+}
+
+iframe.google_form_inst{
+	width: 100%!important; 
+	height: 2200px!important;
+	border:0px;
+	}
+}
+@media(max-width:321px) {
+.upcoming {
+	font-size: 60%
+}
+}
